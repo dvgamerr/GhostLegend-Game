@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhostLegends", "GhostLegends\GhostLegends\GhostLegends.csproj", "{2FE521A4-B0C6-432E-B44C-A1C70F53B08C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GhostLegendsContent", "GhostLegends\GhostLegendsContent\GhostLegendsContent.contentproj", "{51F0FEDC-41AB-4BA1-94CE-CF0709573FA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhostEngine", "GhostEngine\GhostEngine.csproj", "{4F6D2A0A-89D5-46CA-8D08-CFEF586A9158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FE521A4-B0C6-432E-B44C-A1C70F53B08C}.Debug|x86.ActiveCfg = Debug|x86
+		{2FE521A4-B0C6-432E-B44C-A1C70F53B08C}.Debug|x86.Build.0 = Debug|x86
+		{2FE521A4-B0C6-432E-B44C-A1C70F53B08C}.Release|x86.ActiveCfg = Release|x86
+		{2FE521A4-B0C6-432E-B44C-A1C70F53B08C}.Release|x86.Build.0 = Release|x86
+		{51F0FEDC-41AB-4BA1-94CE-CF0709573FA9}.Debug|x86.ActiveCfg = Debug|x86
+		{51F0FEDC-41AB-4BA1-94CE-CF0709573FA9}.Release|x86.ActiveCfg = Release|x86
+		{4F6D2A0A-89D5-46CA-8D08-CFEF586A9158}.Debug|x86.ActiveCfg = Debug|x86
+		{4F6D2A0A-89D5-46CA-8D08-CFEF586A9158}.Debug|x86.Build.0 = Debug|x86
+		{4F6D2A0A-89D5-46CA-8D08-CFEF586A9158}.Release|x86.ActiveCfg = Release|x86
+		{4F6D2A0A-89D5-46CA-8D08-CFEF586A9158}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
