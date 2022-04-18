@@ -1,5 +1,8 @@
-GhostLegends/GhostLegendsContent/obj/
-GhostLegends/GhostLegends/obj/
-GhostLegends/GhostLegends/bin/
-GhostEngine/obj/
-Farseer Physics Engine 3.2 XNA/obj/
+.DS_Store
+.idea
+*.log
+tmp/
+
+.import/
+*.tex
+*.pdf
